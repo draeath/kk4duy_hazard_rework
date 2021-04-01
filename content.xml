@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content id="ws_2440309187" name="Hazard Rework" description="Modifies two hazard fields to do only shield damage.&#10;Sectors affected:&#10;&#9;The Void&#10;&#9;Tharka's Cascade&#10;&#10;Save compatible." author="draeath" version="100" date="2021-03-29" enabled="1" sync="false" lastupdate="1617065720">
+<content id="ws_2440309187" name="Hazard Rework" description="Modifies two hazard fields to do only shield damage.&#10;Sectors affected:&#10;&#9;The Void&#10;&#9;Tharka's Cascade&#10;&#10;Save compatible." author="draeath" version="101" date="2021-04-01" enabled="0" sync="false" save="false" lastupdate="1617317811">
   <text language="44" name="Hazard Rework" description="Modifies two hazard fields to do only shield damage.&#10;Sectors affected:&#10;&#9;The Void&#10;&#9;Tharka's Cascade&#10;&#10;Save compatible." author="draeath"/>
   <text language="49" name="Gefahr Nacharbeit" description="Ändert zwei Gefahrenfelder, um nur Schildschaden zu verursachen.&#10;Betroffene Sektoren:&#10;&#9;Die Leere&#10;&#9;Tharkas Zusammenbruch&#10;&#10;Kompatibel speichern." author="draeath"/>
 </content>
