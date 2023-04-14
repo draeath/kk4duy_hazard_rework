@@ -1,4 +1,4 @@
-Hazard Rework v1.01
+Hazard Rework v1.02
 
 https://www.nexusmods.com/x4foundations/mods/770
 https://steamcommunity.com/sharedfiles/filedetails/?id=2440309187
@@ -10,6 +10,7 @@ Modifies two hazard fields to do only shield damage.
 Sectors affected:
 - The Void
 - Tharka's Cascade
+- Sanctuary of Darkness
 
 Save compatible.
 
@@ -20,6 +21,7 @@ Save compatible.
 Betroffene Sektoren:
 - Die Leere
 - Tharkas Zusammenbruch
+- Heimat der Dunkelheit
 
 Kompatibel speichern.
 
